@@ -1,2 +1,0 @@
-# website
-made using Nicepage
